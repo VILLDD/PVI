@@ -17,7 +17,7 @@ const ProjectPage = () => {
                     whileInView={{ opacity: 1, x: 0 }}
                     transition={{ duration: 1, delay: 5 * 0.2, ease: easeOut }}
                     viewport={{ once: true, amount: 0.2 }}
-                    className=" bg-[#393E46] h-60 w-3/4 rounded-3xl shadow-xl cursor-pointer transition-colors duration-300 active:bg-white active:text-black text-white active:shadow-white active:shadow-lg">
+                    className=" bg-[#393E46] h-auto w-3/4 rounded-3xl shadow-xl cursor-pointer transition-colors duration-300 active:bg-white active:text-black text-white active:shadow-white active:shadow-lg">
                     <h1 className="text-center p-2 sm:p-5 text-xl sm:text-4xl font-bold selection:bg-transparent">Web 2.0</h1>
                     <p className="text-center p-2 sm:p-5 text-sm sm:text-lg selection:bg-transparent">
                         Web ini adalah website pertama yang saya buat saat saya mempunyai laptop. Saat itu saya masih banyak memakai bantuan seperti chat gpt,
@@ -30,7 +30,7 @@ const ProjectPage = () => {
                     whileInView={{ opacity: 1, x: 0 }}
                     transition={{ duration: 1, delay: 5 * 0.2, ease: easeOut }}
                     viewport={{ once: true, amount: 0.2 }}
-                    className="bg-[#393E46] h-70 w-3/4 rounded-3xl shadow-xl cursor-pointer transition-colors duration-300 active:bg-white active:text-black text-white active:shadow-white active:shadow-lg">
+                    className="bg-[#393E46] h-auto w-3/4 rounded-3xl shadow-xl cursor-pointer transition-colors duration-300 active:bg-white active:text-black text-white active:shadow-white active:shadow-lg">
                     <h1 className="text-center p-2 sm:p-5 text-xl sm:text-4xl font-bold selection:bg-transparent">New Port</h1>
                     <p className=" text-center p-2 sm:p-5 text-sm sm:text-lg selection:bg-transparent">
                         New Port Ini adalah website kedua saya dalam membuat website portofolio. Awal saya belajar tentang pemrograman saya membuat website dari HP,
