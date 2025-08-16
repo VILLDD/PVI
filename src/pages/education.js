@@ -22,7 +22,7 @@ const EducationPage = () => {
                 <motion.div
                     initial={{ opacity: 0, y: 100 }}
                     whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 1, ease: easeOut }}
+                    transition={{ duration: 1.1, ease: easeOut }}
                     viewport={{ once: true, amount: 0.2 }}
                     className="border-2 border-blue-800 w-full sm:w-60 h-auto sm:h-60 p-5 rounded-3xl active:bg-blue-800 active:text-white transition-all duration-500 ease-in-out"
                 >
@@ -34,7 +34,7 @@ const EducationPage = () => {
                 <motion.div
                     initial={{ opacity: 0, y: 100 }}
                     whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 1, ease: easeOut }}
+                    transition={{ duration: 1.1, ease: easeOut }}
                     viewport={{ once: true, amount: 0.2 }}
                     className="border-2 border-blue-800 w-full sm:w-60 h-auto sm:h-60 p-5 rounded-3xl active:bg-blue-800 active:text-white transition-all duration-500 ease-in-out"
                 >
@@ -46,7 +46,7 @@ const EducationPage = () => {
                 <motion.div
                     initial={{ opacity: 0, y: 100 }}
                     whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 1, ease: easeOut }}
+                    transition={{ duration: 1.1, ease: easeOut }}
                     viewport={{ once: true, amount: 0.2 }}
                     className="border-2 border-blue-800 w-full sm:w-60 h-auto sm:h-60 p-5 rounded-3xl active:bg-blue-800 active:text-white transition-all duration-500 ease-in-out"
                 >
@@ -58,7 +58,7 @@ const EducationPage = () => {
                 <motion.div
                     initial={{ opacity: 0, y: 100 }}
                     whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 1 }}
+                    transition={{ duration: 1.1, ease: easeOut}}
                     viewport={{ once: true, amount: 0.2 }}
                     className="border-2 border-blue-800 w-full sm:w-60 h-auto sm:h-60 p-5 rounded-3xl active:bg-blue-800 active:text-white transition-all duration-500 ease-in-out"
                 >
