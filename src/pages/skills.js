@@ -35,7 +35,7 @@ const SkillsPage = () => {
                                 <h1 className="text-center">Laravel, Php</h1>
                             </div>
                             <div className="flip-card-back shadow-2xl p-5 rounded-2xl flex items-center justify-center bg-[#3B38A0]">
-                                <h1 className="text-center text-white">Backend Dev</h1>
+                                <h1 className="text-center text-white">Saya cukup bisa dalam backend di laravel, namun belum terlalu mahir di dalamnya</h1>
                             </div>
                         </div>
                     </div>
@@ -46,7 +46,7 @@ const SkillsPage = () => {
                                 <h1 className="text-center">Next js</h1>
                             </div>
                             <div className="flip-card-back shadow-2xl p-5 rounded-2xl flex items-center justify-center bg-[#3B38A0]">
-                                <h1 className="text-center text-white">SSR & SSG</h1>
+                                <h1 className="text-center text-white">Masih banyak pengetahuan yang masih saya belum dapat kan di next js, tapi dengan saya membuat portofolio ini dengan next js saya jadi paham</h1>
                             </div>
                         </div>
                     </div>
@@ -57,7 +57,7 @@ const SkillsPage = () => {
                                 <h1 className="text-center">React, Tailwind</h1>
                             </div>
                             <div className="flip-card-back shadow-2xl p-5 rounded-2xl flex items-center justify-center bg-[#3B38A0]">
-                                <h1 className="text-center text-white">UI/UX</h1>
+                                <h1 className="text-center text-white">Untuk sekarang saya masih tahap pembelajaran di react dan tailwind</h1>
                             </div>
                         </div>
                     </div>
